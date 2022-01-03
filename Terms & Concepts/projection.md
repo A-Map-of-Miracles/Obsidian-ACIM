@@ -1,5 +1,6 @@
 ---
-alias:: Projection, projecting, projected, projections
-title:: projection
-
+alias: Projection, projecting, projected, projections, project, projects
 ---
+### projection
+==see also:== 
+==contrast:== [[extension]]

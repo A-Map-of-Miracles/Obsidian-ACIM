@@ -1,3 +1,5 @@
-alias:: students, pupil, learner
-
--
+---
+alias: students, pupil, learner
+---
+### student
+==see also:== 

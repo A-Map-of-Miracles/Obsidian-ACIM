@@ -1,2 +1,2 @@
-alias:: Truth
+:: Truth
 see-also::

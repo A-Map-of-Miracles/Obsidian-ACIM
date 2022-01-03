@@ -1,2 +1,2 @@
-alias:: reflects, reflect
+:: reflects, reflect
 see-also:: [[mirror]]

@@ -1,4 +1,4 @@
-alias:: UCDM, ucdm
+:: UCDM, ucdm
 language:: [[Spanish / Español]] 
 text-type:: book
 

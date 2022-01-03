@@ -1,3 +1,3 @@
-alias:: symbol, symbolic
+:: symbol, symbolic
 
 -

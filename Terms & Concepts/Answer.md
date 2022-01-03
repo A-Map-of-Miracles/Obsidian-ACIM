@@ -1,3 +1,7 @@
-alias:: answer, answers
+---
+alias: answer, answers
+---
+### Answer
+==see also:== 
 
 -

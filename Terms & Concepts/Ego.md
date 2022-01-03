@@ -1,4 +1,6 @@
-alias:: ego, the ego
-title:: Ego
+---
+alias: ego, the ego, Ego
+---
+### Ego
+==see also:== 
 
--

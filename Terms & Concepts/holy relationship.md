@@ -1,4 +1,6 @@
-alias:: Holy relationship
-see-also:: [[special relationship]], [[relationship]]
-
--
+---
+alias: Holy relationship
+---
+### holy relationship
+==see also:== [[relationship]]
+==contrast:== [[special relationship]]

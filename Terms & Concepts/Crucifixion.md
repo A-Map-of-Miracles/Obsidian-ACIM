@@ -1,4 +1,5 @@
-alias:: crucifixion
-see-also:: crucify
-
--
+---
+alias: crucifixion
+---
+### Crucifixion
+==see also:== [[crucify]]

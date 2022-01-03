@@ -1,4 +1,4 @@
-alias:: His Voice
+:: His Voice
 see-also::
 
 -

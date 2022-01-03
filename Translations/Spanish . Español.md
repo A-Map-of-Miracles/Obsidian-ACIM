@@ -1,5 +1,5 @@
 title:: Spanish / Español
-alias:: spanish, span, esp, esp.
+:: spanish, span, esp, esp.
 
 - [[Un Curso de Milagros]]
 -

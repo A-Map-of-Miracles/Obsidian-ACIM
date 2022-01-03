@@ -1,3 +1,6 @@
-alias:: theoretical
+---
+alias: theoretical, Theory
 
--
+---
+### theory
+==see also:== 

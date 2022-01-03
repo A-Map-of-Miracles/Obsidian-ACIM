@@ -1,3 +1,3 @@
 ---
-alias:: the World, world, the world
+:: the World, world, the world
 ---

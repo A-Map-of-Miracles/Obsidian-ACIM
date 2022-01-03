@@ -1,4 +1,4 @@
-alias:: value, Values, values
+:: value, Values, values
 
 -
 -

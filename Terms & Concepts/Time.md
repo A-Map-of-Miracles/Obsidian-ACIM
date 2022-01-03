@@ -1,3 +1,3 @@
-alias:: Time
+:: Time
 
 -

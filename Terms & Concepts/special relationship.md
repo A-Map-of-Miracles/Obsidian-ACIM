@@ -1,4 +1,4 @@
-alias:: Special Relationship
+:: Special Relationship
 see-also:: [[holy relationship]]
 
 -

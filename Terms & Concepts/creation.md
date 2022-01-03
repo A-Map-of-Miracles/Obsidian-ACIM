@@ -1,5 +1,5 @@
-alias:: creation, create, creates, created, creating
-contrast:: [[made]]
+---
+alias: creation, create, creates, created, creating
+---
+==contrast:== [[made]]
 
--
--

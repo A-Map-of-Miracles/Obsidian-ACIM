@@ -1,4 +1,4 @@
-alias:: the Real World
+:: the Real World
 see-also:: [[reality]]
 contrast::
 

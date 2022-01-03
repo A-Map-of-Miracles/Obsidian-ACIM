@@ -1,4 +1,5 @@
-alias:: Joy, joy
-
--
--
+---
+alias: joy
+---
+### Joy
+==see also:== 

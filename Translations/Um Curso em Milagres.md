@@ -1,4 +1,4 @@
-alias:: UCEM
+:: UCEM
 language:: [[Portuguese]] 
 text-type:: book
 

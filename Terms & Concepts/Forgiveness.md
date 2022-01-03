@@ -1,3 +1,6 @@
-alias:: Forgiveness, forgive, forgiving
-see-also::
-contrast::
+---
+alias:Forgiveness, forgive, forgiving
+---
+### Forgiveness
+==see also:== 
+==contrast:== [[judgment]], [[condemnation]]

@@ -1,3 +1,5 @@
-see-also:: [[Jesus]]
-
--
+---
+alias:
+---
+### I
+==see also:== [[Jesus]]

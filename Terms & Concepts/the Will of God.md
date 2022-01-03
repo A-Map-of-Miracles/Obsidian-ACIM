@@ -1,3 +1,3 @@
-alias:: His Will,
+:: His Will,
 
 -

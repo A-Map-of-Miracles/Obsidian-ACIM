@@ -1,4 +1,5 @@
-alias:: Knowledge
-see-also:: [[perception]]
-
--
+---
+alias: Knowledge
+---
+==see-also:== 
+==contrast:== [[perception]]

@@ -1,4 +1,6 @@
-alias:: teaching
-title:: Teaching
+---
+alias: Teaching, taught
 
--
+---
+### teaching
+==see also:== [[learning]]
