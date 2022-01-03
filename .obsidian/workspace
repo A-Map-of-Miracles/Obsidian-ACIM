@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "1e49cb92c707a979",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0be097715b97f14",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3776a2c176da94f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9fe5312e242958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50d1c60fb84495a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "942fe33da830e266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94205ce859e8277e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8d5e72e97436e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2f8891b18000af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7483c9c086fa9e26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9c4ea270ac300a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b0be097715b97f14",
+  "lastOpenFiles": [
+    "Extra/Templates.md",
+    "Extra/A Map of Miracles.md"
+  ]
+}
