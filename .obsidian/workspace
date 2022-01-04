@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
-            "mode": "source",
+            "file": "timeless.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
+                "file": "timeless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d3e314c843d3f1d7",
   "lastOpenFiles": [
-    "1. ACIM - Text/+Preface & Introduction/Preface.md",
-    "unstable.md",
+    "timeless.md",
     "stable.md",
     "loss.md",
+    "birth.md",
+    "1. ACIM - Text/+Preface & Introduction/Preface.md",
+    "unstable.md",
     "scarcity.md",
     "death.md",
-    "birth.md",
     "facts.md",
-    "interpretation.md",
-    "end.md"
+    "interpretation.md"
   ]
 }
