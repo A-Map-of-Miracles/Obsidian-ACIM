@@ -2,7 +2,7 @@
 alias: l1, Lesson 1, lesson 1, Lesson1, lesson1
 TextType: lesson
 LessonNumber: 1
-tag: meaning, meaningless
+tag: meaning, meaningless, ritual
 ---
 ### Lesson 1. Nothing I see... means anything.
 
@@ -10,6 +10,7 @@ tag: meaning, meaningless
 
 ==<- Previous Section:== [[+Workbook - Introduction|Introduction to the Workbook]]
 ==Next Lesson ->== [[Lesson 2. I have given everything I see...all the meaning that it has for me.]]
+
 ***
 
 Now look slowly around you, and practice applying this idea very specifically to whatever you see:

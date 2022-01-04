@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
+            "file": "Terms & Concepts/meaningless.md",
             "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "d7b226821dcfb2d1"
+      },
+      {
+        "id": "d3e314c843d3f1d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Terms & Concepts/meaningless.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "d7b226821dcfb2d1"
       }
     ],
     "direction": "vertical"
@@ -53,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "right": {
     "id": "8b5a83c285cb78db",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
+                "file": "Terms & Concepts/meaningless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c41235aba410f4b3",
+  "active": "d3e314c843d3f1d7",
   "lastOpenFiles": [
+    "Terms & Concepts/meaningless.md",
+    "2. ACIM - Workbook/Workbook - part I/Lesson 2. I have given everything I see...all the meaning that it has for me..md",
+    "2. ACIM - Workbook/Workbook - part I/Lesson 1. Nothing I see means anything..md",
     "1. ACIM - Text/+Preface & Introduction/Preface.md",
     "+Introduction-Overview/+A Map of Miracles.md",
-    "1. ACIM - Text/+Preface & Introduction/Text - Introduction.md",
-    "+Introduction-Overview/Another Map of Miracles.md",
-    "+Introduction-Overview/Questions to myself.md",
-    "+Introduction-Overview/Tasks To Do & Questions to Answer.md",
-    "+Introduction-Overview/What is A Course in Miracles.md",
     "Templates/section template.md",
-    "Templates/lesson template.md",
-    "Templates/person template.md"
+    "Templates/quote template.md",
+    "Key Quotes & Passages/there must be another way.md",
+    "1. ACIM - Text/+Preface & Introduction/Text - Introduction.md",
+    "+Introduction-Overview/Another Map of Miracles.md"
   ]
 }
