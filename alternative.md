@@ -1,7 +1,7 @@
 ---
-alias:
+alias: alternatives
 language: en
 ---
-### {{title}}
+### alternative
 ==see also:== 
 ==contrast:== 

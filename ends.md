@@ -2,6 +2,6 @@
 alias:
 language: en
 ---
-### {{title}}
+### ends
 ==see also:== 
-==contrast:== 
+==contrast:== [[means]]

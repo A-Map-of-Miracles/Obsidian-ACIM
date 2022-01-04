@@ -1,5 +1,5 @@
 :: the Real World
-see-also:: [[reality]]
+see-also:: [[Reality]]
 contrast::
 
 -

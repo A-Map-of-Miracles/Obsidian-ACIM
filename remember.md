@@ -1,7 +1,7 @@
 ---
-alias:
+alias: remembering, remembers
 language: en
 ---
-### {{title}}
+### remember
 ==see also:== 
 ==contrast:== 

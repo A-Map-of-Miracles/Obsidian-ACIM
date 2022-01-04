@@ -2,6 +2,6 @@
 alias:
 language: en
 ---
-### {{title}}
+### inevitable
 ==see also:== 
 ==contrast:== 

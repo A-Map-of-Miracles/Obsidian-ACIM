@@ -1,7 +1,7 @@
 ---
-alias:
+alias: corrected
 language: en
 ---
-### {{title}}
+### correction
 ==see also:== 
 ==contrast:== 

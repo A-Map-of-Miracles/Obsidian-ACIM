@@ -1,7 +1,7 @@
 ---
-alias:
+alias: messages, Message
 language: en
 ---
-### {{title}}
+### message
 ==see also:== 
 ==contrast:== 

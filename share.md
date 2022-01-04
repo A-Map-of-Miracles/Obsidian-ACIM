@@ -1,7 +1,7 @@
 ---
-alias:
+alias: sharing, shared
 language: en
 ---
-### {{title}}
+### share
 ==see also:== 
 ==contrast:== 

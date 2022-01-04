@@ -1,7 +1,7 @@
 ---
-alias:
+alias: innocent, Innocent
 language: en
 ---
-### {{title}}
+### innocence
 ==see also:== 
 ==contrast:== 

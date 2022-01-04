@@ -1,7 +1,7 @@
 ---
-alias:
+alias: steps
 language: en
 ---
-### {{title}}
+### step
 ==see also:== 
 ==contrast:== 

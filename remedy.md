@@ -1,7 +1,7 @@
 ---
-alias:
+alias: remedies, Remedy, remedied
 language: en
 ---
-### {{title}}
+### remedy
 ==see also:== 
 ==contrast:== 

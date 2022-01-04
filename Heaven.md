@@ -2,6 +2,6 @@
 alias:
 language: en
 ---
-### {{title}}
+### Heaven
 ==see also:== 
 ==contrast:== 

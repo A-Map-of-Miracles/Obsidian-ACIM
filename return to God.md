@@ -2,6 +2,6 @@
 alias:
 language: en
 ---
-### {{title}}
+### return to God
 ==see also:== 
 ==contrast:== 

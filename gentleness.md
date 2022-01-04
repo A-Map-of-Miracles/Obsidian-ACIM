@@ -1,7 +1,7 @@
 ---
-alias:
+alias: gentle
 language: en
 ---
-### {{title}}
+### gentleness
 ==see also:== 
 ==contrast:== 

@@ -1,7 +1,7 @@
 ---
-alias:
+alias: Cure, curing, cured
 language: en
 ---
-### {{title}}
+### cure
 ==see also:== 
 ==contrast:== 

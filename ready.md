@@ -2,6 +2,6 @@
 alias:
 language: en
 ---
-### {{title}}
+### ready
 ==see also:== 
 ==contrast:== 
