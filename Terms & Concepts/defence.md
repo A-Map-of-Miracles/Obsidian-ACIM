@@ -1,6 +1,6 @@
 ---
-alias: defences, defend, defending, defended
+alias: defenses, defend, defending, defended, defence, defences
 language: en
 ---
-### defence
+### defense
 ==see also:== 

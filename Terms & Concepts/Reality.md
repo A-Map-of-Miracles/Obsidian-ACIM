@@ -1,5 +1,5 @@
 ---
-alias: real
+alias: real, reality
 language: en
 ---
 ### Reality
