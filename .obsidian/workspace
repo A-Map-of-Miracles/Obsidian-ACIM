@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Introduction-Overview/+A Map of Miracles.md",
-            "mode": "preview"
+            "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Introduction-Overview/+A Map of Miracles.md",
+                "file": "1. ACIM - Text/+Preface & Introduction/Preface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +89,15 @@
   },
   "active": "c41235aba410f4b3",
   "lastOpenFiles": [
+    "1. ACIM - Text/+Preface & Introduction/Preface.md",
     "+Introduction-Overview/+A Map of Miracles.md",
-    "Templates/person template.md",
-    "People and Places/William Thetford.md",
-    "Other Authors/Gary Renard/The Disappearance of the Universe.md",
-    "+Introduction-Overview/Another Map of Miracles.md"
+    "1. ACIM - Text/+Preface & Introduction/Text - Introduction.md",
+    "+Introduction-Overview/Another Map of Miracles.md",
+    "+Introduction-Overview/Questions to myself.md",
+    "+Introduction-Overview/Tasks To Do & Questions to Answer.md",
+    "+Introduction-Overview/What is A Course in Miracles.md",
+    "Templates/section template.md",
+    "Templates/lesson template.md",
+    "Templates/person template.md"
   ]
 }
