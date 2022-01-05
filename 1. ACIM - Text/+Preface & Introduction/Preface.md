@@ -15,7 +15,7 @@ As its title implies, the Course is arranged throughout as a [[Teaching]] device
 
 The [[curriculum]] the Course proposes is carefully conceived and is explained, step by step, at both the theoretical and practical level. It emphasises application rather than [[theory]], and experience rather than theology. It specifically states that "a [[universal]] theology is impossible, but a universal experience is not only possible but necessary" ( [[Clarification of Terms - Introduction#^f40bb9|Manual, p.77]]. Although [[Christian]] in statement, the Course deals with universal spiritual themes. It emphasises that it is but one version of the [[universal curriculum]]. There are many others, this one differing from them only in form. They all lead to God in the end. ^884b5a
 
-The text is largely [[theory|theoretical]], and sets forth the concepts on which the Course's [[thought system]] is based. Its ideas contain the [[foundation]] for the Workbook's lessons. Without the practical application the Workbook provides, the text would remain largely a series of abstractions which would hardly suffice to bring about the [[thought reversal]]at which the Course aims.
+The text is largely [[theory|theoretical]], and sets forth the concepts on which the Course's [[thought system]] is based. Its ideas contain the [[foundation]] for the Workbook's lessons. Without the practical application the Workbook provides, the text would remain largely a series of abstractions which would hardly suffice to bring about the [[thought reversal]] at which the Course aims.
 
 The Workbook includes 365 [[+A Course In Miracles - Workbook|lessons]], one for each day of the year. It is not necessary, however, to do the lessons at that tempo, and one might want to remain with a particularly appealing lesson for more than one day. The [[instructions]] urge only that not more than one lesson a day should be attempted. The [[practical]] nature of the Workbook is underscored by the introduction to its lessons, which emphasises [[experience]] through application rather than a prior commitment to a spiritual goal:
 ![[+Workbook - Introduction#^308b4a]]![[+Workbook - Introduction#^45c2dd]]
@@ -30,9 +30,9 @@ Finally, the [[A Course In Miracles - Manual for Teachers|Manual for Teachers]],
 ## What It Says
 > _Nothing real can be threatened.
 > Nothing unreal exists.
-> Herein lies the peace of God.
+> Herein lies the peace of God._
 
-This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the [[Reality|real]] and the [[unreal]]; between knowledge and perception. [[knowledge]] is truth, under one law, the law of love or God. [[Truth]] is unalterable, [[eternal]] and unambiguous. It can be unrecognized, but it cannot be [[change|changed]]. It applies to everything that God created, and only what He created is real. It is beyond [[learning]] because it is beyond [[Time]] and process. It has no [[opposite]]; no [[beginning]] and no [[end]]. It merely is.
+This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the [[Reality|real]] and the [[unreal]]; between knowledge and perception. [[knowledge|Knowledge]] is truth, under one law, the law of love or God. [[Truth]] is unalterable, [[eternal]] and unambiguous. It can be unrecognised, but it cannot be [[change|changed]]. It applies to everything that God created, and only what He created is real. It is beyond [[learning]] because it is beyond [[Time|time]] and process. It has no [[opposite]]; no [[beginning]] and no [[end]]. It merely is.
 
 The world of perception, on the other hand, is the world of time, of change, or beginnings and endings. It is based on [[interpretation]], not on [[facts]]. It is the world of [[birth]] and [[death]], founded on the belief in [[scarcity]], [[loss]], [[Separation]] and death. It is learned rather than given, selective in its perceptual emphases, [[unstable]] in its functioning, and inaccurate in its interpretations.
 

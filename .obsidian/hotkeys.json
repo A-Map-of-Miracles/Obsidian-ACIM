@@ -2,9 +2,17 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }

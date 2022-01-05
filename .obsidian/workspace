@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e314c843d3f1d7",
+        "id": "2d823ffdb451e919",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
+            "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "1d7a3ee70e98b300"
+      },
+      {
+        "id": "ddb058367a60d590",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "1d7a3ee70e98b300"
       }
     ],
     "direction": "vertical"
@@ -40,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"son of god\"",
+                "query": "lesson 5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
+                "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3e314c843d3f1d7",
+  "active": "2d823ffdb451e919",
   "lastOpenFiles": [
-    "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
-    "1. ACIM - Text/+Preface & Introduction/Text - Introduction.md",
-    "Free will.md",
-    "1. ACIM - Text/Chapter 17/T-17.III Shadows of the Past.md",
+    "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
+    "Terms/alone.md",
     "1. ACIM - Text/+Preface & Introduction/Preface.md",
-    "cherish.md",
-    "Thoughts of God.md",
-    "attributes.md",
-    "slavery.md",
-    "past.md"
+    "2. ACIM - Workbook/Workbook - part I/Lesson 5. I am never upset for the reason I think..md",
+    "Terms/lonely.md",
+    "Terms/Time.md",
+    "Terms/theoretical framework.md",
+    "Terms/thought reversal.md",
+    "Terms/thought system.md",
+    "Terms/cult.md"
   ]
 }
