@@ -1,8 +1,8 @@
 ---
-alias:
+alias: fragments, fragmented, fragment
 language: en
 tags: 
 ---
-### {{title}}
+### fragmentation
 ==see also:== 
 ==contrast:== 

@@ -1,8 +1,7 @@
 ---
-alias:
+alias: indiscriminately
 language: en
-tags: 
 ---
-### {{title}}
+### indiscriminate
 ==see also:== 
 ==contrast:== 

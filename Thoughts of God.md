@@ -1,7 +1,8 @@
 ---
 alias:
 language: en
+tags: 
 ---
+### Thoughts of God
 ==see also:== 
-
-### Atonement
+==contrast:== 

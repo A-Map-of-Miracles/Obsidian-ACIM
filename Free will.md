@@ -1,8 +1,8 @@
 ---
-alias:
+alias: free will
 language: en
 tags: 
 ---
-### {{title}}
+### Free will
 ==see also:== 
 ==contrast:== 

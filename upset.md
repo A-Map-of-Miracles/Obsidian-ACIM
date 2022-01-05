@@ -1,8 +1,8 @@
 ---
-alias:
+alias: upsetting, upsets
 language: en
 tags: 
 ---
-### {{title}}
+### upset
 ==see also:== 
 ==contrast:== 

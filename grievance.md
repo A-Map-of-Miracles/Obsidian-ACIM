@@ -1,8 +1,8 @@
 ---
-alias:
+alias: grievances, agrieved
 language: en
 tags: 
 ---
-### {{title}}
+### grievance
 ==see also:== 
 ==contrast:== 

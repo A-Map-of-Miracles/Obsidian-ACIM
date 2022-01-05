@@ -1,8 +1,8 @@
 ---
-alias:
+alias: decisions, decide, decided, decides
 language: en
 tags: 
 ---
-### {{title}}
+### decision
 ==see also:== 
 ==contrast:== 

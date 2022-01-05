@@ -1,8 +1,7 @@
 ---
-alias:
+alias: situations
 language: en
-tags: 
 ---
-### {{title}}
+### situation
 ==see also:== 
 ==contrast:== 

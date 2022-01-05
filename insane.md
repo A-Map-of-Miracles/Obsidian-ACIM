@@ -1,8 +1,8 @@
 ---
-alias:
+alias: insanity
 language: en
 tags: 
 ---
-### {{title}}
+### insane
 ==see also:== 
 ==contrast:== 

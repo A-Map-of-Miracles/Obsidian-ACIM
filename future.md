@@ -1,8 +1,8 @@
 ---
-alias:
+alias: Future, futures
 language: en
 tags: 
 ---
-### {{title}}
+### future
 ==see also:== 
 ==contrast:== 

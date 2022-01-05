@@ -1,8 +1,8 @@
 ---
-alias:
+alias: Reason
 language: en
 tags: 
 ---
-### {{title}}
+### reason
 ==see also:== 
 ==contrast:== 

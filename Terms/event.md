@@ -1,8 +1,7 @@
 ---
-alias:
+alias: events
 language: en
-tags: 
 ---
-### {{title}}
+### event
 ==see also:== 
 ==contrast:== 

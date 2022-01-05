@@ -1,8 +1,8 @@
 ---
-alias:
+alias: forgotten, forgets, forgot, forgetting
 language: en
 tags: 
 ---
-### {{title}}
+### forget
 ==see also:== 
 ==contrast:== 

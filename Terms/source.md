@@ -1,8 +1,7 @@
 ---
-alias:
+alias: source, sources
 language: en
-tags: 
 ---
-### {{title}}
+### source
 ==see also:== 
 ==contrast:== 

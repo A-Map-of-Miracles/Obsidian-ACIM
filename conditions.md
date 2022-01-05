@@ -1,8 +1,8 @@
 ---
-alias:
+alias: condition
 language: en
 tags: 
 ---
-### {{title}}
+### conditions
 ==see also:== 
 ==contrast:== 

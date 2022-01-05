@@ -1,8 +1,7 @@
 ---
-alias:
+alias: feelings, feel, felt
 language: en
-tags: 
 ---
-### {{title}}
+### feeling
 ==see also:== 
 ==contrast:== 

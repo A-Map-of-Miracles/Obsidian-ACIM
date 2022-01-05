@@ -1,8 +1,8 @@
 ---
-alias:
+alias: fantasies, fantasised, fantasized
 language: en
 tags: 
 ---
-### {{title}}
+### fantasy
 ==see also:== 
 ==contrast:== 

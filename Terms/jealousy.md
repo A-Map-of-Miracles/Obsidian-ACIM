@@ -1,8 +1,7 @@
 ---
-alias:
+alias: jealous
 language: en
-tags: 
 ---
-### {{title}}
+### jealousy
 ==see also:== 
 ==contrast:== 

@@ -1,8 +1,8 @@
 ---
-alias:
+alias: attribute
 language: en
 tags: 
 ---
-### {{title}}
+### attributes
 ==see also:== 
 ==contrast:== 

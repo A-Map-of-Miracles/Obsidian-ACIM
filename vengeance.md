@@ -1,8 +1,9 @@
+
 ---
-alias:
+alias: revenge, avenge, avenged, avenger
 language: en
 tags: 
 ---
-### {{title}}
+### vengeance
 ==see also:== 
 ==contrast:== 

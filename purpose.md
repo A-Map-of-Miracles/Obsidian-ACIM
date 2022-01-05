@@ -1,8 +1,8 @@
 ---
-alias:
+alias: Purpose
 language: en
 tags: 
 ---
-### {{title}}
+### purpose
 ==see also:== 
 ==contrast:== 

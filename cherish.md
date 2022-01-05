@@ -1,8 +1,8 @@
 ---
-alias:
+alias: cherished, cherishes
 language: en
 tags: 
 ---
-### {{title}}
+### cherish
 ==see also:== 
 ==contrast:== 

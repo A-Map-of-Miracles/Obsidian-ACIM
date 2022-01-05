@@ -4,6 +4,7 @@ TextType: chapter
 ChapterNumber: 
 Reference: T-
 language: en
+tags:
 ---
 # {{title}}
 

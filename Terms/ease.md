@@ -1,7 +1,7 @@
 ---
-alias:
+alias: 
 language: en
 ---
+### ease
 ==see also:== 
-
-### Atonement
+==contrast:== 

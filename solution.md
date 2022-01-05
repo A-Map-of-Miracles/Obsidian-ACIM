@@ -1,8 +1,8 @@
 ---
-alias:
+alias: solutions, solved, solves, solving
 language: en
 tags: 
 ---
-### {{title}}
+### solution
 ==see also:== 
 ==contrast:== 

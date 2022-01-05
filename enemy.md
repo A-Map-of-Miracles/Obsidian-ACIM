@@ -1,8 +1,8 @@
 ---
-alias:
+alias: enemies
 language: en
 tags: 
 ---
-### {{title}}
+### enemy
 ==see also:== 
 ==contrast:== 

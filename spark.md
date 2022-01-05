@@ -1,8 +1,8 @@
 ---
-alias:
+alias: sparks, sparked, sparking
 language: en
 tags: 
 ---
-### {{title}}
+### spark
 ==see also:== 
 ==contrast:== 

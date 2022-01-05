@@ -9,12 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "timeless.md",
-            "mode": "preview",
+            "file": "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "a95e76874b2bb5a1"
+        }
       }
     ],
     "direction": "vertical"
@@ -41,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"son of god\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timeless.md",
+                "file": "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "056d87fa270191ba",
+  "active": "d3e314c843d3f1d7",
   "lastOpenFiles": [
-    "timeless.md",
-    "stable.md",
-    "loss.md",
-    "birth.md",
+    "1. ACIM - Text/Chapter 1/T-1. The Meaning of Miracles.md",
+    "1. ACIM - Text/+Preface & Introduction/Text - Introduction.md",
+    "Free will.md",
+    "1. ACIM - Text/Chapter 17/T-17.III Shadows of the Past.md",
     "1. ACIM - Text/+Preface & Introduction/Preface.md",
-    "unstable.md",
-    "scarcity.md",
-    "death.md",
-    "facts.md",
-    "interpretation.md"
+    "cherish.md",
+    "Thoughts of God.md",
+    "attributes.md",
+    "slavery.md",
+    "past.md"
   ]
 }

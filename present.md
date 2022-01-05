@@ -1,8 +1,8 @@
 ---
-alias:
+alias: the present, Present
 language: en
 tags: 
 ---
-### {{title}}
+### present
 ==see also:== 
 ==contrast:== 

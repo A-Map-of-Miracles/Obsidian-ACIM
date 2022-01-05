@@ -3,6 +3,6 @@ alias:
 language: en
 tags: 
 ---
-### {{title}}
+### past
 ==see also:== 
-==contrast:== 
+==contrast:== [[present]], [[future]]
