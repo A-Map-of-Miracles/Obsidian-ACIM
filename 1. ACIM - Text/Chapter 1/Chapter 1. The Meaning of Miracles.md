@@ -1,13 +1,11 @@
 ---
-alias: 
+alias: chapter 1, chap1, meaning of miracles, ch1
 TextType: chapter
 Book: ACIM
-ChapterNumber: 
-Reference: T-
+TextNumber: 1
 language: en
-tags:
 ---
-# {{title}}
+# Chapter 1 - The Meaning of Miracles
 
 ==&#8592 Previous Chapter== 
 ==&#8592 Previous Section== 

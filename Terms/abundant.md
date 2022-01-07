@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: abundance
 language: en
 tags: 
 ---
-### Holiness
+### abundant
 ==see also:== 
 ==contrast:== 

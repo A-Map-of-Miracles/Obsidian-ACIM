@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: Example, examples, Examples
 language: en
 tags: 
 ---
-### Holiness
+### example
 ==see also:== 
 ==contrast:== 

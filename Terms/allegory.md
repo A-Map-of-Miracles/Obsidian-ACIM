@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: allegories, allegorical
 language: en
 tags: 
 ---
-### Holiness
+### allegory
 ==see also:== 
 ==contrast:== 

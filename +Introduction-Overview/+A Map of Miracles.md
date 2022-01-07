@@ -26,6 +26,8 @@ alias: Overview, map, map of miracles, the map, home
 
 ## Key Commentators and Authors on ACIM
 #### Ken Wapnick
+- [[The Journey Home]]
+- [[A Vast Illusion]]
 
 #### Gary Renard
 - [[The Disappearance of the Universe]]

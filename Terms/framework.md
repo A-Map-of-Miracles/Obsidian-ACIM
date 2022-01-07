@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: Framework, frameworks
 language: en
 tags: 
 ---
-### Holiness
+### framework
 ==see also:== 
 ==contrast:== 

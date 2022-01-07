@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: empty, Emptiness
 language: en
 tags: 
 ---
-### Holiness
+### emptiness
 ==see also:== 
 ==contrast:== 

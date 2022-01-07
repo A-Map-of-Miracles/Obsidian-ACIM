@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: Properties, property
 language: en
 tags: 
 ---
-### Holiness
+### properties
 ==see also:== 
 ==contrast:== 

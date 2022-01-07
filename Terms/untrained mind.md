@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: untrained minds
 language: en
 tags: 
 ---
-### Holiness
+### untrained mind
 ==see also:== 
 ==contrast:== 

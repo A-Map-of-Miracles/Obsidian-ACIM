@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias:
 language: en
 tags: 
 ---
-### Holiness
+### Ideas leave not their source.
 ==see also:== 
 ==contrast:== 

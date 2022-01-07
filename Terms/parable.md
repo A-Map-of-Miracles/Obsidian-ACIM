@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: Parables, parables
 language: en
 tags: 
 ---
-### Holiness
+### parable
 ==see also:== 
 ==contrast:== 

@@ -10,14 +10,13 @@ tags:
 ### {{title}}
 
 
-==<- Previous Lesson== 
-==Next Lesson ->== 
+==&#8592 Previous Lesson== 
+==&#8594 Next Lesson &#8594== 
 ***
 
-placeholder text
-
+###### W-pI.1.1
 ***
 
-==<- Previous Lesson:== 
-==Next Lesson ->== 
+==&#8592 Previous Lesson== 
+==&#8594 Next Lesson &#8594== 
 

@@ -4,7 +4,8 @@ TextType: book
 TextNumber: 1
 ---
 # A Course In Miracles - Workbook
-## [[+Workbook - Introduction]]
+## [[+Workbook - Introduction|Workbook - Introduction]]
+![[+Workbook - Introduction|Introduction]]
 # Part 1
 - [[Lesson 1. Nothing I see means anything.]]
 - [[Lesson 2. I have given everything I see...all the meaning that it has for me.]]

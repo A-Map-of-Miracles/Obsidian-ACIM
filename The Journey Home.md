@@ -3,6 +3,6 @@ alias:
 TextType: book
 TextNumber: 1
 language: en
-author:
+author: Ken Wapnick
 ---
-# {{title}}
+# The Journey Home

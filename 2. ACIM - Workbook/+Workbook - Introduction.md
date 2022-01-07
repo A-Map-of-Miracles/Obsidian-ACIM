@@ -12,11 +12,11 @@ The purpose of the workbook is to train your mind in a systematic way to a diffe
 
 The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. This will help you to generalize, the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
 
-Second, be sure that you do not [[decide]] for yourself that there are some people, situations or things to which the ideas are inapplicable. This will [[interfere]] with transfer of training. The very nature of true perception is that it has no [[limits]]. It is the [[opposite]] of the way you see now.
+Second, be sure that you do not [[decision|decide]] for yourself that there are some people, situations or things to which the ideas are inapplicable. This will [[interfere]] with transfer of training. The very nature of true perception is that it has no [[limits]]. It is the [[opposite]] of the way you see now.
 
 The overall aim of the exercises is to increase your ability to extend the ideas you will be practising to include everything. This will require no effort on your part. The exercises themselves meet the conditions necessary for this kind of transfer.
 
-Some of the ideas the workbook presents you will find hard to [[belief|believe]], and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to do. You are not asked to judge them at all. You are asked only to use them. It is their use that will give them meaning to you, and will show you that they are true. ^308b4a
+Some of the ideas the workbook presents you will find hard to [[belief|believe]], and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are [[direction|directed]] to do. You are not asked to judge them at all. You are asked only to use them. It is their use that will give them meaning to you, and will show you that they are true. ^308b4a
   
 Remember only this; you need not [[belief|believe]] the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively [[resistance|resist]]. None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be use them. Nothing more than that is required. ^45c2dd
 

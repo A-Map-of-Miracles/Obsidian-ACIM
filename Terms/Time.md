@@ -1,9 +1,9 @@
 ---
-alias: time
+alias: Time
 language: en
 tags: 
 ---
-### Time
+### time
 ==see also:== [[timeless|timelessness]]
 ==contrast:== 
 

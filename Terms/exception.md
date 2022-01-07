@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: exceptions
 language: en
 tags: 
 ---
-### Holiness
+### exception
 ==see also:== 
 ==contrast:== 

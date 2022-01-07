@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: limiting, limited, Limits
 language: en
 tags: 
 ---
-### Holiness
+### limits
 ==see also:== 
 ==contrast:== 

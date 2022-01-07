@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d823ffdb451e919",
+        "id": "08bac3538e08e11a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "1d7a3ee70e98b300"
-      },
-      {
-        "id": "ddb058367a60d590",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "1d7a3ee70e98b300"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lesson 5",
+                "query": "ken wap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d823ffdb451e919",
+  "active": "08bac3538e08e11a",
   "lastOpenFiles": [
-    "2. ACIM - Workbook/Workbook - part I/Lesson 6. I am upset because I see something that is not there..md",
-    "Terms/alone.md",
-    "1. ACIM - Text/+Preface & Introduction/Preface.md",
-    "2. ACIM - Workbook/Workbook - part I/Lesson 5. I am never upset for the reason I think..md",
-    "Terms/lonely.md",
-    "Terms/Time.md",
-    "Terms/theoretical framework.md",
-    "Terms/thought reversal.md",
-    "Terms/thought system.md",
-    "Terms/cult.md"
+    "Terms/anticipation.md",
+    "+Introduction-Overview/+A Map of Miracles.md",
+    "+Introduction-Overview/Another Map of Miracles.md",
+    "The Journey Home.md",
+    "Other Authors/Gary Renard/The Disappearance of the Universe.md",
+    "1. ACIM - Text/Chapter 21/T-21.I. The Forgotten Song.md",
+    "Templates/lesson template.md",
+    "Templates/section template.md",
+    "1. ACIM - Text/Chapter 21/T-21.II. The Responsibility for Sight.md",
+    "1. ACIM - Text/Chapter 1/T-1.IV. The Escape From Darkness.md"
   ]
 }

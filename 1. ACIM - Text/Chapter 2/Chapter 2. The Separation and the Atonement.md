@@ -2,12 +2,12 @@
 alias: 
 TextType: chapter
 Book: ACIM
-ChapterNumber: 
-Reference: T-
+ChapterNumber: 2
+Reference: T-2
 language: en
-tags:
 ---
-# {{title}}
+# Chapter 2 - 
+# THE SEPARATION AND THE ATONEMENT
 
 ==&#8592 Previous Chapter== 
 ==&#8592 Previous Section== 

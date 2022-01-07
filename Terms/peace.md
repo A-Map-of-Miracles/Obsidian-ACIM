@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: Peace, peaceful, peaceable, pacify
 language: en
 tags: 
 ---
-### Holiness
+### peace
 ==see also:== 
 ==contrast:== 

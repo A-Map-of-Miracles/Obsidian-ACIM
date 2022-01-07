@@ -1,8 +1,8 @@
 ---
-alias: holiness
+alias: interferes, interfering, interfered
 language: en
 tags: 
 ---
-### Holiness
+### interfere
 ==see also:== 
 ==contrast:== 
