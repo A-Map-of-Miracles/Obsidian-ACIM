@@ -1,5 +1,5 @@
 ---
-alias: Judgment
+alias: Judgment, judge, judges, judging, judgmental, judged
 ---
 ### judgment
 ==see also:== 

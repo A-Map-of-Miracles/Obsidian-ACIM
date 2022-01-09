@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "08bac3538e08e11a",
+        "id": "b846b2705ef44f93",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ken wap",
+                "query": "brother",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08bac3538e08e11a",
+  "active": "b846b2705ef44f93",
   "lastOpenFiles": [
-    "Terms/anticipation.md",
     "+Introduction-Overview/+A Map of Miracles.md",
-    "+Introduction-Overview/Another Map of Miracles.md",
-    "The Journey Home.md",
-    "Other Authors/Gary Renard/The Disappearance of the Universe.md",
-    "1. ACIM - Text/Chapter 21/T-21.I. The Forgotten Song.md",
-    "Templates/lesson template.md",
-    "Templates/section template.md",
+    "Bible Kit original notes/+Start here.md",
+    "Terms/accustomed.md",
+    "Other Authors/Ken Wapnick/The Journey Home.md",
     "1. ACIM - Text/Chapter 21/T-21.II. The Responsibility for Sight.md",
+    "1. ACIM - Text/Chapter 17/T-17.III Shadows of the Past.md",
+    "1. ACIM - Text/Chapter 1/T-1.III. Atonement and Miracles.md",
+    "1. ACIM - Text/Chapter 1/Chapter 1. The Meaning of Miracles.md",
+    "1. ACIM - Text/Chapter 2/Chapter 2. The Separation and the Atonement.md",
     "1. ACIM - Text/Chapter 1/T-1.IV. The Escape From Darkness.md"
   ]
 }

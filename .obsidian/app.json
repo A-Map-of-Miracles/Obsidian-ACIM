@@ -6,5 +6,6 @@
   "showFrontmatter": false,
   "spellcheck": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }
