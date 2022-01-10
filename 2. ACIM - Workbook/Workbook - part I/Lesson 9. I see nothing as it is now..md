@@ -4,7 +4,7 @@ TextType: lesson
 LessonNumber: 9
 Reference: W-pI.9
 language: en
-tags: 
+tags: sight, seeing, meaningless
 ---
 
 ### Lesson 9. I see nothing as it is now.
