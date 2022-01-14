@@ -1,5 +1,5 @@
 ---
-alias: Sin, sins, sinning, sinned
+alias: Sin, sins, sinning, sinned, Sins
 language: en
 ---
 ### sin

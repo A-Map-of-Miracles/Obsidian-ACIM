@@ -1,5 +1,5 @@
 ---
-alias: Lesson 7, lesson 7, L7, l7
+alias: Lesson 7, L7, W-pI.7
 TextType: lesson
 LessonNumber: 7
 Reference: W-pI.7

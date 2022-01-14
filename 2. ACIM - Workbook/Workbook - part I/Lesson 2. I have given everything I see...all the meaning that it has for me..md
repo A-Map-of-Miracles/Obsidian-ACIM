@@ -1,5 +1,5 @@
 ---
-alias: Lesson 2, lesson 2, lesson2, Lesson2
+alias: Lesson 2, L2, W-pI.2
 TextType: lesson
 LessonNumber: 2
 Reference: W-pI.2

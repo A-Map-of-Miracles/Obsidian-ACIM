@@ -1,8 +1,8 @@
 ---
-alias: Lesson 
+alias: Lesson 4, L4, W-pI.4
 TextType: lesson
 LessonNumber: 
-Reference: W-pI.
+Reference: W-pI.4
 language: en
 ---
 

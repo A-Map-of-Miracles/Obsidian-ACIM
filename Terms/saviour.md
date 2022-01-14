@@ -1,5 +1,5 @@
 ---
-alias:
+alias: savior, saviours, saviors
 language: en
 tags: 
 ---

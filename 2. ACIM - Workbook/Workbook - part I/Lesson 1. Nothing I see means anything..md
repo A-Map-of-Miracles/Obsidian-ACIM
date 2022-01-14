@@ -1,7 +1,8 @@
 ---
-alias: l1, Lesson 1, lesson 1, Lesson1, lesson1
+alias: Lesson 1, L1, W-pI.1
 TextType: lesson
 LessonNumber: 1
+Reference: W-pI.1
 tag: meaning, meaningless, ritual
 ---
 ### Lesson 1. Nothing I see... means anything.

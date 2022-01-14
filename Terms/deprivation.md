@@ -1,5 +1,5 @@
 ---
-alias: deprived, deprives, depriving
+alias: deprived, deprives, depriving, deprive
 language: en
 tags: 
 ---

@@ -1,11 +1,12 @@
 ---
-alias: 
+alias: T-
 TextType: section
 Book: ACIM
 ChapterNumber: 
 SectionNumber: 
 Reference: T-
 language: en
+complete: false
 ---
 ## {{title}}
 
@@ -13,7 +14,7 @@ language: en
 ==&#8594 Next Section &#8594== 
 
 ***
-###### T-1.I.1
+###### T-21.I.1
 
 
 

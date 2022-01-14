@@ -1,8 +1,8 @@
 ---
-alias: Lesson 
+alias: Lesson 10, L10, W-pI.10
 TextType: lesson
-LessonNumber: 
-Reference: W-pI.
+LessonNumber: 10
+Reference: W-pI.10
 language: en
 tags: 
 ---

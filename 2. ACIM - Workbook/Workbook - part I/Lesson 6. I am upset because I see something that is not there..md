@@ -1,5 +1,5 @@
 ---
-alias: Lesson 6, lesson 6, L6, l6
+alias: Lesson 6, L6, W-pI.6
 TextType: lesson
 LessonNumber: 6
 Reference: W-pI.6

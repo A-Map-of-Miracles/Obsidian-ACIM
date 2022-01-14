@@ -1,5 +1,5 @@
 ---
-alias: Mind
+alias: Mind, minds
 language: en
 ---
 ### mind

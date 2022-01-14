@@ -1,5 +1,5 @@
 ---
-alias: limiting, limited, Limits
+alias: limiting, limited, Limits, limit
 language: en
 tags: 
 ---

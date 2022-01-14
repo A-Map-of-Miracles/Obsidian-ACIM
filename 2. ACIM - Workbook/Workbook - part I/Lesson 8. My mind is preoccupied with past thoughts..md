@@ -1,5 +1,5 @@
 ---
-alias: Lesson 8, lesson 8, L8, l8
+alias: Lesson 8, L8, W-pI.8
 TextType: lesson
 LessonNumber: 8
 Reference: W-pI.8

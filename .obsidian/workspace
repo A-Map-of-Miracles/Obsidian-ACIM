@@ -7,8 +7,39 @@
         "id": "5fd1eae562cc610f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Other Authors and Books/Ken Wapnick/Journey Through the Workbook/Volume 1/Lesson 14 exegesis.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "232a44248f9acb93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Incomplete & In-Progress Notes/Lesson 158. Today I learn to give as I receive..md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7415408b9bfd5902",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. ACIM - Manual for Teachers/Clarification of Terms - Introduction.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brother",
+                "query": "saviour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,13 +96,26 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "3. ACIM - Manual for Teachers/Clarification of Terms - Introduction.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "aa45cfd71c4aee2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. ACIM - Manual for Teachers/Clarification of Terms - Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -82,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fd1eae562cc610f",
+  "active": "7415408b9bfd5902",
   "lastOpenFiles": [
-    "Lesson 11. My meaningless thoughts are showing me a meaningless world..md",
-    "2. ACIM - Workbook/Workbook - part I/Lesson 10. My thoughts do not mean anything..md",
-    "1. ACIM - Text/Chapter 21/T-21.II. The Responsibility for Sight.md",
-    "desire.md",
-    "madness.md",
-    "Terms/accident.md",
-    "Terms/denial.md",
-    "Terms/wishful thinking.md",
-    "Terms/altar.md",
-    "Terms/idols.md"
+    "3. ACIM - Manual for Teachers/Clarification of Terms - Introduction.md",
+    "3. ACIM - Manual for Teachers/Epilogue.md",
+    "3. ACIM - Manual for Teachers/Clarification of Terms.md",
+    "3. ACIM - Manual for Teachers/A Course In Miracles - Manual for Teachers.md",
+    "Incomplete & In-Progress Notes/1. Mind - Spirit.md",
+    "Incomplete & In-Progress Notes/17. How Do God's Teachers Deak With Magic Thoughts.md",
+    "Incomplete & In-Progress Notes/T-27.VII. The Dreamer of the Dream..md",
+    "Other Authors and Books/Ken Wapnick/Journey Through the Workbook/Journey Through the Workbook of A Course In Miracles.md",
+    "Other Authors and Books/Ken Wapnick/Journey Through the Workbook/Volume 1/Lesson 13 exegesis.md",
+    "Incomplete & In-Progress Notes/Lesson 1 exegesis.md"
   ]
 }

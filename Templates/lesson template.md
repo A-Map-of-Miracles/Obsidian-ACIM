@@ -1,10 +1,11 @@
 ---
-alias: Lesson 
+alias: Lesson X, W-pI.
 TextType: lesson
 LessonNumber: 
 Reference: W-pI.
 language: en
 tags: 
+complete: false
 ---
 
 ### {{title}}
